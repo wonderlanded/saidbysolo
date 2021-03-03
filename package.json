@@ -1,0 +1,7 @@
+{
+  "name": "saidbysolo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
